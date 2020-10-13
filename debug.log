@@ -1,0 +1,4 @@
+[1012/211022.970:ERROR:settings.cc(430)] Settings version is not 5
+[1012/212022.975:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Desmond00-ROG\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\6083b225-63f3-4a98-9f37-7fe00c1c781e: The system cannot find the path specified. (0x3)
+[1012/212022.976:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/212022.989:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
